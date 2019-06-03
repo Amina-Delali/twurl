@@ -1,2 +1,2 @@
 # twurl
-Scripts describing how to use twurl to interract with the twitter API
+Scripts describing how to use twurl to interact with the twitter API
